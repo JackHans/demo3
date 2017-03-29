@@ -1,0 +1,14 @@
+{
+    "name": "jackhans/demo3",
+    "description": "hello",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "jackhans",
+            "email": "jack_2k@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
