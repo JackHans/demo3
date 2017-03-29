@@ -1,20 +1,6 @@
 {
-    "name": "jackhans/demo3",
-    "description": "hello",
-    "type": "project",
-    "license": "mit",
-    "authors": [
-        {
-            "name": "jackhans",
-            "email": "jack_2k@126.com"
-        }
-    ],
-    "minimum-stability": "dev",
+    "name": "james/demo3",
     "require": {
-        "php": ">=5.5.9",
-        "laravel/framework": "5.2.*"
+        "phpmailer/phpmailer": "^5.2"
     }
 }
-
-
-
